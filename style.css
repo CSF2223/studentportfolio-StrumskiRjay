@@ -8,18 +8,18 @@ accent: #9277AC
 vegasGold: #c5b358
 white: #fff
 black: #000  
-*/  
+*/
 
 html {
-    /* if we add any padding or border onto an element it does not affect the with of the element */ 
-    box-sizing: border-box; 
+    /* if we add any padding or border onto an element it does not affect the with of the element */
+    box-sizing: border-box;
 }
 
-body { 
-    margin: 0; 
+body {
+    margin: 0;
     padding: 0;
-    font-family: 'Open Sans', sans-serif; 
-    font-weight: 300; 
-    background-color: #200439; 
-    color: #fff; 
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    background-color: #200439;
+    color: #fff;
 }
